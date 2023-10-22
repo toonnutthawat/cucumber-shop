@@ -2,7 +2,8 @@ package ku.shop;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//Nutthawat Aonprasert
+//6410450940
 public class ProductCatalog {
 
     private Map<String, Product> products;
