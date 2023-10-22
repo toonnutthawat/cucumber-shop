@@ -1,6 +1,7 @@
 package ku.shop;
 //Nutthawat Aonprasert
 //6410450940
+//edit
 public class Product {
     private double price;
     private String name;
